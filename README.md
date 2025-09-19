@@ -1,7 +1,7 @@
 # 🏄‍♂️ Shubham Pawar
 <!-- MY profile READme is inspired by forrest knights github profile readme --> 
 
-**`I DO BACKEND STUFF!!`**
+**`I TRY DO BACKEND STUFF!!`**
 
 Aspiring Backend Engineer with a focus on building scalable, high-performance systems. Proficient in Data Structures & Algorithms, Object-Oriented Programming, and building end-to-end data systems on a Linux environment. Eager to apply systems-level knowledge to develop scalable backend services and data-driven machine learning solutions.
 
@@ -33,7 +33,5 @@ Aspiring Backend Engineer with a focus on building scalable, high-performance sy
 ![Shubham's GitHub stats](https://github-readme-stats.vercel.app/api?username=shubh4m-2k04&show_icons=true&theme=gruvbox)
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
-
--
 [website]: https://fkcodes.com
 [youtube]: https://youtube.com/fknight
