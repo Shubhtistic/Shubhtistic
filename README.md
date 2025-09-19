@@ -33,5 +33,3 @@ Aspiring Backend Engineer with a focus on building scalable, high-performance sy
 ![Shubham's GitHub stats](https://github-readme-stats.vercel.app/api?username=shubh4m-2k04&show_icons=true&theme=gruvbox)
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
-[website]: https://fkcodes.com
-[youtube]: https://youtube.com/fknight
