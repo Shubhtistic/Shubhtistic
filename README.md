@@ -93,8 +93,7 @@ I'm an aspiring backend engineer building my version of scalable systems one ste
 </p>
 
 
-### 🪐 Soundtrack of the Moment
-### 🪐 Soundtrack of the Moment
+
 ### 🎵 Soundtrack of the Moment
 <p align="center">
   <a href="https://open.spotify.com/track/5CQ30WqJwcep0pYcV4AMNc" target="_blank">
@@ -105,7 +104,7 @@ I'm an aspiring backend engineer building my version of scalable systems one ste
     />
   </a>
 </p>
-
+![](https://now-playing-cards.vercel.app/now-playing/q?uid=31urtnhjhdtd5g5faxzwestvqylm)
 
 
 
