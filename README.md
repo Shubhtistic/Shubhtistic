@@ -95,16 +95,9 @@ I'm an aspiring backend engineer building my version of scalable systems one ste
 
 
 ### 🎵 Soundtrack of the Moment
-<p align="center">
-  <a href="https://open.spotify.com/track/5CQ30WqJwcep0pYcV4AMNc" target="_blank">
-    <img 
-      src="https://spotify-github-profile.vercel.app/api/view?uid=31urtnhjhdtd5g5faxzwestvqylm&theme=dark&cover_image=true" 
-      alt="Currently Listening"
-      style="border-radius:15px; max-width:450px; box-shadow: 0 5px 15px rgba(0,0,0,0.3);"
-    />
-  </a>
-</p>
-[![Spotify](https://now-playing-cards.vercel.app/now-playing/q?uid=31urtnhjhdtd5g5faxzwestvqylm)
+
+
+[![Spotify](https://novatorem.visualbean.vercel.app/api/spotify)](https://open.spotify.com/user/1112981871)
 
 
 
@@ -116,5 +109,3 @@ I'm an aspiring backend engineer building my version of scalable systems one ste
 
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=shubh4m-2k04&theme=gruvbox&border_radius=4.5) -->
-
-#
