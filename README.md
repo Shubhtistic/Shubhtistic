@@ -83,6 +83,8 @@ I'm an aspiring backend engineer building my version of scalable systems one ste
 
 <br  />
 
+<div style="width:100%;"> <!-- forces heading to new line -->
+
 <!-- end of tools & languages -->
 
 ### 📊 Stats
