@@ -104,7 +104,7 @@ I'm an aspiring backend engineer building my version of scalable systems one ste
     />
   </a>
 </p>
-![](https://now-playing-cards.vercel.app/now-playing/q?uid=31urtnhjhdtd5g5faxzwestvqylm)
+[![Spotify](https://now-playing-cards.vercel.app/now-playing/q?uid=31urtnhjhdtd5g5faxzwestvqylm)
 
 
 
