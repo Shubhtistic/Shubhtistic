@@ -87,12 +87,13 @@ I'm an aspiring backend engineer building my version of scalable systems one ste
 <div style="clear: both; width: 100%;">
 
 ### 📊 Stats
-<div align="center" style="display: flex; justify-content: center; gap: 10px; flex-wrap: nowrap; overflow-x: auto;">
+<div align="center" style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap; max-width: 100%;">
   <img src="https://github-readme-stats.vercel.app/api?username=shubh4m-2k04&show_icons=true&theme=noctis_minimus" 
-       alt="GitHub stats" style="height:180px; min-width:250px; max-width:45%;"/>
+       alt="GitHub stats" style="height:180px; flex: 1 1 250px; max-width:45%;"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubh4m-2k04&layout=compact&theme=noctis_minimus" 
-       alt="Top Langs" style="height:180px; min-width:250px; max-width:45%;"/>
+       alt="Top Langs" style="height:180px; flex: 1 1 250px; max-width:45%;"/>
 </div>
+
 
 
 
