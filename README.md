@@ -82,7 +82,8 @@ I'm an aspiring backend engineer building my version of scalable systems one ste
 
 <br />
 
-#
+
+<!-- end of tools & languages -->
 
 ### 📊 Stats
 <p align="center">
