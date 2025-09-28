@@ -48,36 +48,36 @@ I'm an aspiring backend engineer building my version of scalable systems one ste
 
 ---
 
-### 🧰 Tech Stack
+### 🛠️ Tools & Languages
 
-<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
+<img align="left" alt="Python" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
 
-<img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/>
-
-
-<img align="left" alt="FastAPI" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg"/>
-
-<img align="left" alt="SQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
-
-<img align="left" alt="PostgreSQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>
+<img align="left" alt="C++" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/>
 
 
-<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
+<img align="left" alt="FastAPI" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg"/>
+
+<img align="left" alt="SQL" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
+
+<img align="left" alt="PostgreSQL" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>
 
 
-<img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://api.iconify.design/skill-icons/bash-dark.svg"/>
+<img align="left" alt="Linux" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
 
-<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
+
+<img align="left" alt="Bash" width="50px" style="padding-right:10px;" src="https://api.iconify.design/skill-icons/bash-dark.svg"/>
+
+<img align="left" alt="Git" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
 
 
 <!-- github and bash -->
 
-<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://api.iconify.design/skill-icons/github-dark.svg"/>
+<img align="left" alt="GitHub" width="50px" style="padding-right:10px;" src="https://api.iconify.design/skill-icons/github-dark.svg"/>
 
 
 
 <!-- CMkae -->
-<img align="left" alt="CMake" width="30px" style="padding-right:10px;" src="https://api.iconify.design/skill-icons/cmake-dark.svg"/>
+<img align="left" alt="CMake" width="50px" style="padding-right:10px;" src="https://api.iconify.design/skill-icons/cmake-dark.svg"/>
 
 
 <br />
@@ -92,9 +92,7 @@ I'm an aspiring backend engineer building my version of scalable systems one ste
 
 
 ### 🪐 Soundtrack of the Moment
-<p align="center">
-  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31urtnhjhdtd5g5faxzwestvqylm&cover_image=true&theme=noctis_minimus&bar_color=53b14f&bar_color_cover=false" alt="Spotify Now Playing" />
-</p>
+
 
 
 
