@@ -46,7 +46,7 @@ I'm an aspiring backend engineer building my version of scalable systems one ste
 
 <img src="https://raw.githubusercontent.com/shubh4m-2k04/shubh4m-2k04/main/output/github-snake-dark.svg" />
 
----
+
 
 ### 🛠️ Tools & Languages
 
@@ -82,7 +82,7 @@ I'm an aspiring backend engineer building my version of scalable systems one ste
 
 <br />
 
---
+---
 
 ### 📊 Stats
 <p align="center">
