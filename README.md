@@ -50,42 +50,41 @@ I'm an aspiring backend engineer building my version of scalable systems one ste
 ### 🛠️ Tools & Languages
 
 
-<img align="left" alt="Python" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
+<img align="left" alt="Python" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
 
-<img align="left" alt="C++" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/>
-
-
-<img align="left" alt="FastAPI" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg"/>
-
-<img align="left" alt="SQL" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
-
-<img align="left" alt="PostgreSQL" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>
+<img align="left" alt="C++" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/>
 
 
-<img align="left" alt="Linux" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
+<img align="left" alt="FastAPI" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg"/>
+
+<img align="left" alt="SQL" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
+
+<img align="left" alt="PostgreSQL" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>
 
 
-<img align="left" alt="Bash" width="50px" style="padding-right:10px;" src="https://api.iconify.design/skill-icons/bash-dark.svg"/>
+<img align="left" alt="Linux" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
 
-<img align="left" alt="Git" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
+
+<img align="left" alt="Bash" width="40px" style="padding-right:10px;" src="https://api.iconify.design/skill-icons/bash-dark.svg"/>
+
+<img align="left" alt="Git" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
 
 
 <!-- github and bash -->
 
-<img align="left" alt="GitHub" width="50px" style="padding-right:10px;" src="https://api.iconify.design/skill-icons/github-dark.svg"/>
+<img align="left" alt="GitHub" width="40px" style="padding-right:10px;" src="https://api.iconify.design/skill-icons/github-dark.svg"/>
 
 
 
 <!-- CMkae -->
-<img align="left" alt="CMake" width="50px" style="padding-right:10px;" src="https://api.iconify.design/skill-icons/cmake-dark.svg"/>
+<img align="left" alt="CMake" width="40px" style="padding-right:10px;" src="https://api.iconify.design/skill-icons/cmake-dark.svg"/>
 
 <br />
 
 <br  />
 
-<div style="width:100%;"> <!-- forces heading to new line -->
-
 <!-- end of tools & languages -->
+<div style="clear: both; width: 100%;">
 
 ### 📊 Stats
 <div align="center" style="display: flex; justify-content: center; gap: 10px; flex-wrap: nowrap; overflow-x: auto;">
