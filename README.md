@@ -1,24 +1,15 @@
-# 🏄‍♂️ Shubham Pawar
+# 🐹 Shubham Pawar
 
-**`Aspiring Backend Engineer (Developer/Builder/Learner)`**
+**`I TRY TO DO BACKEND STUFF `**
 
 I'm an aspiring backend engineer building my version of scalable systems one step at a time. All coding projects I take on are designed from the ground up — from data structures and algorithms, to systems-level design, to deploying real-world solutions in a Linux environment. My ultimate goal: build high-performance backend services and data-driven machine learning systems.
 
-   <p align="left">
-      <a href="https://www.linkedin.com/in/shubham-pawar-2k04" target="_blank">
-         <img alt="LinkedIn" title="Connect on LinkedIn" src="https://img.shields.io/badge/LinkedIn-1A4D8F?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-      <a href="https://www.instagram.com/shubh4m.2k04" target="_blank">
-         <img alt="Instagram" title="Follow on Instagram" src="https://img.shields.io/badge/Instagram-833AB4?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-      <!--
-      <a href="https://github.com/shubh4m-2k04?tab=followers" target="_blank">   
-         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/shubh4m-2k04?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-      <a href="https://github.com/shubh4m-2k04?tab=repositories&sort=stargazers" target="_blank">
-         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/shubh4m-2k04?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-
-   </p>
-
--->
-
+<p align="left">
+   <a href="https://www.linkedin.com/in/shubham-pawar-2k04" target="_blank">
+      <img alt="LinkedIn" title="Connect on LinkedIn" src="https://img.shields.io/badge/LinkedIn-1A4D8F?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+   <a href="https://www.instagram.com/shubham_2k04/" target="_blank">
+      <img alt="Instagram" title="Follow on Instagram" src="https://img.shields.io/badge/Instagram-A81968?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+</p>
 <!-- External Social Links: Uncomment when needed -->
 
 <!--
@@ -53,40 +44,70 @@ I'm an aspiring backend engineer building my version of scalable systems one ste
 
 -->
 
-![Snake animation](https://github.com/shubh4m-2k04/shubh4m-2k04/blob/output/dist/github-contribution-grid-snake.svg)
+<img src="https://raw.githubusercontent.com/shubh4m-2k04/shubh4m-2k04/main/output/github-snake-dark.svg" />
+
+
+### 🛠️ Tools & Languages
+
+
+<img align="left" alt="Python" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
+
+<img align="left" alt="C++" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/>
+
+
+<img align="left" alt="FastAPI" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg"/>
+
+<img align="left" alt="SQL" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
+
+<img align="left" alt="PostgreSQL" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>
+
+
+<img align="left" alt="Linux" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
+
+
+<img align="left" alt="Bash" width="40px" style="padding-right:10px;" src="https://api.iconify.design/skill-icons/bash-dark.svg"/>
+
+<img align="left" alt="Git" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
+
+
+<!-- github and bash -->
+
+<img align="left" alt="GitHub" width="40px" style="padding-right:10px;" src="https://api.iconify.design/skill-icons/github-dark.svg"/>
 
 
 
----
-
-### 🧰 Languages and Tools
-
-<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
-
-<img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/>
-
-<img align="left" alt="SQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
-
-<img align="left" alt="PostgreSQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>
-
-<img align="left" alt="FastAPI" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg"/>
-
-<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
-
-<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
-
-<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
-
-<img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg"/>
+<!-- CMkae -->
+<img align="left" alt="CMake" width="40px" style="padding-right:10px;" src="https://api.iconify.design/skill-icons/cmake-dark.svg"/>
 
 <br />
 
-#
+<br  />
+
+<!-- end of tools & languages -->
+<div style="clear: both; width: 100%;">
 
 ### 📊 Stats
+<div align="center" style="display: flex; justify-content: center; gap: 10px; flex-wrap: nowrap; overflow-x: auto;">
+  <img src="https://github-readme-stats.vercel.app/api?username=shubh4m-2k04&show_icons=true&theme=noctis_minimus" 
+       alt="GitHub stats" style="height:180px; min-width:250px; max-width:45%;"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubh4m-2k04&layout=compact&theme=noctis_minimus" 
+       alt="Top Langs" style="height:180px; min-width:250px; max-width:45%;"/>
+</div>
 
-![Shubham's GitHub stats](https://github-readme-stats.vercel.app/api?username=shubh4m-2k04&show_icons=true&theme=gruvbox)
+
+
+### 🎵 Soundtrack of the Moment
+
+
+[![Spotify](https://novatorem.visualbean.vercel.app/api/spotify)](https://open.spotify.com/user/31urtnhjhdtd5g5faxzwestvqylm)
+
+
+
+
+
+
+
+
+
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=shubh4m-2k04&theme=gruvbox&border_radius=4.5) -->
-
-#
