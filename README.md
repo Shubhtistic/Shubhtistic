@@ -49,7 +49,7 @@ I'm an aspiring backend engineer building my version of scalable systems one ste
 
 
 ### 🛠️ Tools & Languages
-<div align="left">
+
 
 <img align="left" alt="Python" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
 
@@ -80,10 +80,8 @@ I'm an aspiring backend engineer building my version of scalable systems one ste
 <!-- CMkae -->
 <img align="left" alt="CMake" width="50px" style="padding-right:10px;" src="https://api.iconify.design/skill-icons/cmake-dark.svg"/>
 
-</div>
-
-<!-- Add spacing before next section -->
-<div style="height: 20px;"></div>
+<br />
+###
 
 
 <!-- end of tools & languages -->
