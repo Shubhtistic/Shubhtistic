@@ -97,7 +97,7 @@ I'm an aspiring backend engineer building my version of scalable systems one ste
 ### 🎵 Soundtrack of the Moment
 
 
-[![Spotify](https://novatorem.visualbean.vercel.app/api/spotify)](https://open.spotify.com/user/1112981871)
+[![Spotify](https://novatorem.visualbean.vercel.app/api/spotify)](https://open.spotify.com/user/31urtnhjhdtd5g5faxzwestvqylm)
 
 
 
