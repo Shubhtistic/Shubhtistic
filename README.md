@@ -46,32 +46,52 @@ I'm an aspiring backend engineer building my version of scalable systems one ste
 
 <img src="https://raw.githubusercontent.com/shubh4m-2k04/shubh4m-2k04/main/output/github-snake-dark.svg" />
 
-### tools
-<!-- Tools & Languages -->
-<div align="left" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40px" style="margin:2px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40px" style="margin:2px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="40px" style="margin:2px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40px" style="margin:2px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40px" style="margin:2px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40px" style="margin:2px;" />
-  <img src="https://api.iconify.design/skill-icons/bash-dark.svg" width="40px" style="margin:2px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40px" style="margin:2px;" />
-  <img src="https://api.iconify.design/skill-icons/github-dark.svg" width="40px" style="margin:2px;" />
-  <img src="https://api.iconify.design/skill-icons/cmake-dark.svg" width="40px" style="margin:2px;" />
-</div>
 
-<br/>
-### stats
-<!-- Stats Cards -->
+### 🛠️ Tools & Languages
+
+
+<img align="left" alt="Python" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
+
+<img align="left" alt="C++" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/>
+
+
+<img align="left" alt="FastAPI" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg"/>
+
+<img align="left" alt="SQL" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
+
+<img align="left" alt="PostgreSQL" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>
+
+
+<img align="left" alt="Linux" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
+
+
+<img align="left" alt="Bash" width="50px" style="padding-right:10px;" src="https://api.iconify.design/skill-icons/bash-dark.svg"/>
+
+<img align="left" alt="Git" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
+
+
+<!-- github and bash -->
+
+<img align="left" alt="GitHub" width="50px" style="padding-right:10px;" src="https://api.iconify.design/skill-icons/github-dark.svg"/>
+
+
+
+<!-- CMkae -->
+<img align="left" alt="CMake" width="50px" style="padding-right:10px;" src="https://api.iconify.design/skill-icons/cmake-dark.svg"/>
+
+<br />
+
+<br  />
+
+<!-- end of tools & languages -->
+
+### 📊 Stats
 <div align="center" style="display: flex; justify-content: center; gap: 10px; flex-wrap: nowrap; overflow-x: auto;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubh4m-2k04&layout=compact&theme=noctis_minimus" 
-       alt="Top Langs" style="height:120px; min-width:200px; max-width:45%;"/>
+       alt="Top Langs" style="height:180px; min-width:250px; max-width:45%;"/>
   <img src="https://github-readme-stats.vercel.app/api?username=shubh4m-2k04&show_icons=true&theme=noctis_minimus" 
-       alt="GitHub stats" style="height:120px; min-width:200px; max-width:45%;"/>
+       alt="GitHub stats" style="height:180px; min-width:250px; max-width:45%;"/>
 </div>
-
-
 
 
 
