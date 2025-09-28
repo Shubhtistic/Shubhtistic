@@ -88,9 +88,11 @@ I'm an aspiring backend engineer building my version of scalable systems one ste
 
 ### 📊 Stats
 <div align="center" style="display: flex; justify-content: center; gap: 10px; flex-wrap: nowrap; overflow-x: auto;">
-
+  <!-- GitHub Stats first -->
   <img src="https://github-readme-stats.vercel.app/api?username=shubh4m-2k04&show_icons=true&theme=noctis_minimus" 
        alt="GitHub stats" style="height:180px; min-width:250px; max-width:45%;"/>
+  
+  <!-- Top Languages second -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubh4m-2k04&layout=compact&theme=noctis_minimus" 
        alt="Top Langs" style="height:180px; min-width:250px; max-width:45%;"/>
 </div>
