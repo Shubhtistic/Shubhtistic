@@ -94,8 +94,19 @@ I'm an aspiring backend engineer building my version of scalable systems one ste
 
 
 ### 🪐 Soundtrack of the Moment
+### 🪐 Soundtrack of the Moment
+### 🎵 Soundtrack of the Moment
+<p align="center">
+  <a href="https://open.spotify.com/track/5CQ30WqJwcep0pYcV4AMNc" target="_blank">
+    <img 
+      src="https://spotify-github-profile.vercel.app/api/view?uid=31urtnhjhdtd5g5faxzwestvqylm&theme=dark&cover_image=true" 
+      alt="Currently Listening"
+      style="border-radius:15px; max-width:450px; box-shadow: 0 5px 15px rgba(0,0,0,0.3);"
+    />
+  </a>
+</p>
 
-[![Spotify](https://novatorem.visualbean.vercel.app/api/spotify)](https://open.spotify.com/user/31urtnhjhdtd5g5faxzwestvqylm)
+
 
 
 
