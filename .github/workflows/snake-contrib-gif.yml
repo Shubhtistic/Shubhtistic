@@ -19,7 +19,7 @@ jobs:
       - name: Generate Snake
         uses: Platane/snk/svg-only@main
         with:
-          github_user_name: shubh4m-2k04
+          github_user_name: Shubhtistic
           outputs: |
             output/github-snake.svg
             output/github-snake-dark.svg?palette=github-dark   
