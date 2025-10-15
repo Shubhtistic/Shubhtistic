@@ -7,7 +7,7 @@ I'm an aspiring backend engineer building my version of scalable systems one ste
 <p align="left">
    <a href="https://www.linkedin.com/in/shubham-pawar-2k04" target="_blank">
       <img alt="LinkedIn" title="Connect on LinkedIn" src="https://img.shields.io/badge/LinkedIn-1A4D8F?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-   <a href="https://www.instagram.com/shubham_2k04/" target="_blank">
+   <a href="https://www.instagram.com/shubhtistic/" target="_blank">
       <img alt="Instagram" title="Follow on Instagram" src="https://img.shields.io/badge/Instagram-A81968?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 </p>
 <!-- External Social Links: Uncomment when needed -->
@@ -44,7 +44,7 @@ I'm an aspiring backend engineer building my version of scalable systems one ste
 
 -->
 
-<img src="https://raw.githubusercontent.com/shubh4m-2k04/shubh4m-2k04/main/output/github-snake-dark.svg" />
+<img src="https://raw.githubusercontent.com/Shubhtistic/Shubhtistic/main/output/github-snake-dark.svg" />
 
 
 ### 🛠️ Tools & Languages
@@ -88,9 +88,9 @@ I'm an aspiring backend engineer building my version of scalable systems one ste
 
 ### 📊 Stats
 <div align="center" style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap; max-width: 100%;">
-  <img src="https://github-readme-stats.vercel.app/api?username=shubh4m-2k04&show_icons=true&theme=noctis_minimus" 
+  <img src="https://github-readme-stats.vercel.app/api?username=Shubhtistic&show_icons=true&theme=noctis_minimus" 
        alt="GitHub stats" style="height:150px; flex: 1 1 220px; max-width:42%;"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubh4m-2k04&layout=compact&theme=noctis_minimus" 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shubhtistic&layout=compact&theme=noctis_minimus" 
        alt="Top Langs" style="height:150px; flex: 1 1 220px; max-width:42%;"/>
 </div>
 
