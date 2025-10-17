@@ -70,12 +70,12 @@ I'm an aspiring backend engineer building my version of scalable systems one ste
 
 
 
-<br />
+<!-- <br />
 
 <br  />
 
 <!-- end of tools & languages -->
-<div style="clear: both; width: 100%;">
+<!-- <div style="clear: both; width: 100%;"> -->
 
 ### 📊 Stats
 <div align="center" style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap; max-width: 100%;">
