@@ -43,8 +43,10 @@ I'm an aspiring backend engineer building my version of scalable systems one ste
 </p>
 
 -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Shubhtistic/Shubhtistic/main/output/github-snake-dark.svg" />
+</div>
 
-<img src="https://raw.githubusercontent.com/Shubhtistic/Shubhtistic/main/output/github-snake-dark.svg" />
 
 
 ### 🛠️ Tools & Languages
@@ -98,20 +100,23 @@ I'm an aspiring backend engineer building my version of scalable systems one ste
 
 
 
+
 ### 🎵 Soundtrack of the Moment
 
-<table>
-  <tr>
-    <td>
-      <a href="https://open.spotify.com/user/31urtnhjhdtd5g5faxzwestvqylm">
-        <img src="https://novatorem.visualbean.vercel.app/api/spotify" />
-      </a>
-    </td>
-    <td>
-      <img src="https://github.com/Shubhtistic/Shubhtistic/raw/main/output/cat.gif" width="150" />
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <a href="https://open.spotify.com/user/31urtnhjhdtd5g5faxzwestvqylm">
+          <img src="https://novatorem.visualbean.vercel.app/api/spotify" />
+        </a>
+      </td>
+      <td>
+        <img src="https://github.com/Shubhtistic/Shubhtistic/raw/main/output/cat.gif" width="150" />
+      </td>
+    </tr>
+  </table>
+</div>
 
 
 
