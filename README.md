@@ -51,35 +51,24 @@ I'm an aspiring backend engineer building my version of scalable systems one ste
 
 ### 🛠️ Tools & Languages
 
-
-<img align="left" alt="Python" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
-
-<img align="left" alt="C++" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/>
-
-
-<img align="left" alt="FastAPI" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg"/>
-
-<img align="left" alt="SQL" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
-
-<img align="left" alt="PostgreSQL" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>
-
-
-<img align="left" alt="Linux" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
-
-
-<img align="left" alt="Bash" width="40px" style="padding-right:10px;" src="https://api.iconify.design/skill-icons/bash-dark.svg"/>
-
-<img align="left" alt="Git" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
-
-
-<!-- github and bash -->
-
-<img align="left" alt="GitHub" width="40px" style="padding-right:10px;" src="https://api.iconify.design/skill-icons/github-dark.svg"/>
+<p align="center">
+  <img alt="Python" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>&nbsp;&nbsp;&nbsp;&nbsp;
+  <img alt="C++" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/>&nbsp;&nbsp;&nbsp;&nbsp;
+  <img alt="FastAPI" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg"/>&nbsp;&nbsp;&nbsp;&nbsp;
+  <img alt="SQL" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>&nbsp;&nbsp;&nbsp;&nbsp;
+  <img alt="PostgreSQL" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>&nbsp;&nbsp;&nbsp;&nbsp;
+  <img alt="Linux" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>&nbsp;&nbsp;&nbsp;&nbsp;
+  <img alt="Bash" width="45px" src="https://api.iconify.design/skill-icons/bash-dark.svg"/>&nbsp;&nbsp;&nbsp;&nbsp;
+  <img alt="Git" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>&nbsp;&nbsp;&nbsp;&nbsp;
+  <img alt="GitHub" width="45px" src="https://api.iconify.design/skill-icons/github-dark.svg"/>&nbsp;&nbsp;&nbsp;&nbsp;
+  <img alt="CMake" width="45px" src="https://api.iconify.design/skill-icons/cmake-dark.svg"/>
+</p>
 
 
 
-<!-- CMkae -->
-<img align="left" alt="CMake" width="40px" style="padding-right:10px;" src="https://api.iconify.design/skill-icons/cmake-dark.svg"/>
+
+
+
 
 <br />
 
