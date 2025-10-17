@@ -100,10 +100,18 @@ I'm an aspiring backend engineer building my version of scalable systems one ste
 
 ### 🎵 Soundtrack of the Moment
 
-
-[![Spotify](https://novatorem.visualbean.vercel.app/api/spotify)](https://open.spotify.com/user/31urtnhjhdtd5g5faxzwestvqylm)
-
-
+<table>
+  <tr>
+    <td>
+      <a href="https://open.spotify.com/user/31urtnhjhdtd5g5faxzwestvqylm">
+        <img src="https://novatorem.visualbean.vercel.app/api/spotify" />
+      </a>
+    </td>
+    <td>
+      <img src="https://github.com/Shubhtistic/Shubhtistic/raw/main/output/cat.gif" width="150" />
+    </td>
+  </tr>
+</table>
 
 
 
