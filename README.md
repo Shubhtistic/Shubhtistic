@@ -11,44 +11,14 @@ I architect APIs from the ground up—designing efficient data models, implement
    <a href="https://www.instagram.com/shubhtistic/" target="_blank">
       <img alt="Instagram" title="Follow on Instagram" src="https://img.shields.io/badge/Instagram-A81968?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 </p>
-<!-- External Social Links: Uncomment when needed -->
 
-<!--
+---
 
-<p align="left">
-
-  <a href="https://x.com/YOUR_HANDLE" target="_blank">
-
-    <img alt="Twitter / X" title="Follow on Twitter" src="https://custom-icon-badges.demolab.com/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
-
-  <a href="https://www.threads.net/@YOUR_HANDLE" target="_blank">
-
-    <img alt="Threads" title="Follow on Threads" src="https://custom-icon-badges.demolab.com/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white"/></a>
-
-  <a href="https://www.facebook.com/YOUR_HANDLE" target="_blank">
-
-    <img alt="Facebook" title="Follow on Facebook" src="https://custom-icon-badges.demolab.com/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
-
-  <a href="https://www.youtube.com/c/YOUR_HANDLE" target="_blank">
-
-    <img alt="YouTube" title="Subscribe to my YouTube" src="https://custom-icon-badges.demolab.com/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
-
-  <a href="https://medium.com/@YOUR_HANDLE" target="_blank">
-
-    <img alt="Medium" title="Follow on Medium" src="https://custom-icon-badges.demolab.com/badge/Medium-00AB6C?style=for-the-badge&logo=medium&logoColor=white"/></a>
-
-  <a href="https://dev.to/YOUR_HANDLE" target="_blank">
-
-    <img alt="Dev.to" title="Follow on Dev.to" src="https://custom-icon-badges.demolab.com/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"/></a>
-
-</p>
-
--->
 <div align="center">
   <img src="https://raw.githubusercontent.com/Shubhtistic/Shubhtistic/main/output/github-snake-dark.svg" />
 </div>
 
-
+---
 
 ### 🚀 Tech Stack
 
@@ -70,35 +40,110 @@ I architect APIs from the ground up—designing efficient data models, implement
   <img alt="GitHub" width="50px" src="https://api.iconify.design/skill-icons/github-dark.svg"/>
 </p>
 
+---
 
+### 💼 Featured Projects
 
+<div align="center">
 
+<!-- ✦ PROJECT 1: SONCLARUS ✦ -->
 
+<details open>
+<summary>
 
+### 🎵 Sonclarus &nbsp; • &nbsp; *Cloud Audio Intelligence Platform*
 
-<!-- <br />
+</summary>
 
-<br  />
+<br/>
 
-<!-- end of tools & languages -->
-<!-- <div style="clear: both; width: 100%;"> -->
+<table>
+<tr>
+<td align="left">
 
+<br/>
 
+<div align="center">
 
+<a href="https://github.com/Shubhtistic/sonclarus" target="_blank">
+<img src="https://img.shields.io/badge/View%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" height="28"/>
+</a>
 
+</div>
 
+<br/>
 
+Built a serverless audio processing system using **AWS Lambda** for orchestration and **EC2 Spot** for cost-optimized ML inference, where **DeepFilterNet**, **Whisper AI**, and **Sepformer** handle denoising, transcription, and speaker separation respectively, all served through a **FastAPI** backend containerized with **Docker** and backed by **S3** and **RDS**.
 
+<br/>
 
+**📦 Tech Stack** &nbsp; `AWS Lambda` `EC2 Spot` `S3` `RDS` `DeepFilterNet` `Whisper AI` `Sepformer` `FastAPI` `Docker`
 
+<br/>
 
+**📈 Impact** &nbsp; End-to-end production audio processing · dynamic ML inference scaling · clean microservice architecture
 
+<br/>
 
+</td>
+</tr>
+</table>
 
+</details>
 
+<br/>
 
+<!-- ✦ PROJECT 2: VORTEX ✦ -->
+
+<details open>
+<summary>
+
+### ⚡ Vortex &nbsp; • &nbsp; *High-Throughput Telemetry Engine*
+
+</summary>
+
+<br/>
+
+<table>
+<tr>
+<td align="left">
+
+<br/>
+
+<div align="center">
+
+<a href="https://github.com/Shubhtistic/vortex" target="_blank">
+<img src="https://img.shields.io/badge/View%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" height="28"/>
+</a>
+
+</div>
+
+<br/>
+
+Engineered an async telemetry engine using **FastAPI** for request handling and **Redis Streams** for real-time ingestion, with **Celery** managing background tasks, **PostgreSQL** + **SQLModel** as the optimized data layer, and the whole stack deployed on **AWS EC2** behind **Nginx** with **Systemd**-managed auto-healing.
+
+<br/>
+
+**📦 Tech Stack** &nbsp; `FastAPI` `PostgreSQL` `Redis Streams` `Celery` `SQLModel` `AWS EC2` `Nginx` `Systemd`
+
+<br/>
+
+**📈 Impact** &nbsp; 10,000+ req/sec at sub-20ms latency · 85% query optimization · auto-healing SSL deployment
+
+<br/>
+
+</td>
+</tr>
+</table>
+
+</details>
+
+</div>
+
+---
 
 ### 📊 Stats
+
 <div align="center" style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap; max-width: 100%;">
   <img src="https://github-readme-stats.vercel.app/api?username=Shubhtistic&show_icons=true&theme=noctis_minimus" 
        alt="GitHub stats" style="height:150px; flex: 1 1 220px; max-width:42%;"/>
@@ -106,10 +151,7 @@ I architect APIs from the ground up—designing efficient data models, implement
        alt="Top Langs" style="height:150px; flex: 1 1 220px; max-width:42%;"/>
 </div>
 
-
-
-
-
+---
 
 ### 🎵 Soundtrack of the Moment
 
@@ -127,12 +169,3 @@ I architect APIs from the ground up—designing efficient data models, implement
     </tr>
   </table>
 </div>
-
-
-
-
-
-
-
-
-<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=shubh4m-2k04&theme=gruvbox&border_radius=4.5) -->
