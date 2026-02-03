@@ -1,8 +1,8 @@
 # 🐹 Shubham Pawar
 
 **`I TRY TO DO BACKEND STUFF `**
-
-I'm an aspiring backend engineer building my version of scalable systems one step at a time. All coding projects I take on are designed from the ground up — from data structures and algorithms, to systems-level design, to deploying real-world solutions in a Linux environment. My ultimate goal: build high-performance backend services and data-driven machine learning systems.
+Backend Engineer building scalable systems with Python, FastAPI, Docker, and AWS.
+I architect APIs from the ground up—designing efficient data models, implementing async processing, and deploying containerized services that handle real-world load.
 
 <p align="left">
    <a href="https://www.linkedin.com/in/shubham-pawar-2k04" target="_blank">
