@@ -50,7 +50,7 @@ I architect APIs from the ground up—designing efficient data models, implement
 
 <details open>
 <summary>
-<b> Sonclarus</b> &nbsp; • &nbsp; <i>Cloud Audio Intelligence Platform</i>
+<b>🎵 Sonclarus</b> &nbsp; • &nbsp; <i>Cloud Audio Intelligence Platform</i>
 </summary>
 
 <br/>
@@ -67,21 +67,15 @@ I architect APIs from the ground up—designing efficient data models, implement
 
 <br/><br/>
 
-Built a serverless audio processing system using **AWS Lambda** for orchestration and **EC2 Spot** for cost-optimized ML inference, where **DeepFilterNet**, **Whisper AI**, and **Sepformer** handle denoising, transcription, and speaker separation respectively, all served through a **FastAPI** backend containerized with **Docker** and backed by **S3** and **RDS**.
-
-<br/>
+Built an audio processing platform with **EC2** hosting the **FastAPI** backend and frontend, and a separate **EC2 Spot** instance running ML inference where **DeepFilterNet**, **Whisper AI**, and **Sepformer** handle denoising, transcription, and speaker separation respectively, all containerized with **Docker** and backed by **S3** and **RDS**.
 
 **📦 Tech Stack**
 <br/>
-`AWS Lambda` `EC2 Spot` `S3` `RDS` `DeepFilterNet` `Whisper AI` `Sepformer` `FastAPI` `Docker`
-
-<br/>
+`EC2` `EC2 Spot` `S3` `RDS` `DeepFilterNet` `Whisper AI` `Sepformer` `FastAPI` `Docker`
 
 **📈 Impact**
 <br/>
 End-to-end production audio processing · dynamic ML inference scaling · clean microservice architecture
-
-<br/>
 
 </td>
 </tr>
@@ -95,7 +89,7 @@ End-to-end production audio processing · dynamic ML inference scaling · clean 
 
 <details open>
 <summary>
-<b> Vortex</b> &nbsp; • &nbsp; <i>High-Throughput Telemetry Engine</i>
+<b>⚡ Vortex</b> &nbsp; • &nbsp; <i>High-Throughput Telemetry Engine</i>
 </summary>
 
 <br/>
@@ -114,19 +108,13 @@ End-to-end production audio processing · dynamic ML inference scaling · clean 
 
 Engineered an async telemetry engine using **FastAPI** for request handling and **Redis Streams** for real-time ingestion, with **Celery** managing background tasks, **PostgreSQL** + **SQLModel** as the optimized data layer, and the whole stack deployed on **AWS EC2** behind **Nginx** with **Systemd**-managed auto-healing.
 
-<br/>
-
 **📦 Tech Stack**
 <br/>
 `FastAPI` `PostgreSQL` `Redis Streams` `Celery` `SQLModel` `AWS EC2` `Nginx` `Systemd`
 
-<br/>
-
 **📈 Impact**
 <br/>
 10,000+ req/sec at sub-20ms latency · 85% query optimization · auto-healing SSL deployment
-
-<br/>
 
 </td>
 </tr>
