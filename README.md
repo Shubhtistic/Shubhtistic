@@ -55,19 +55,19 @@ I architect APIs from the ground up—designing efficient data models, implement
 
 <br/>
 
-<table>
-<tr>
-<td align="center">
-
-<br/>
-
 <a href="https://github.com/Shubhtistic/sonclarus" target="_blank">
 <img src="https://img.shields.io/badge/View%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" height="28"/>
 </a>
 
-<br/><br/>
+<br/>
 
-Built an audio processing platform with **EC2** hosting the **FastAPI** backend and frontend, and a separate **EC2 Spot** instance running ML inference where **DeepFilterNet**, **Whisper AI**, and **Sepformer** handle denoising, transcription, and speaker separation respectively, all containerized with **Docker** and backed by **S3** and **RDS**.
+<table>
+<tr>
+<td align="center">
+
+Built an audio processing platform with **EC2** hosting the **FastAPI** backend and frontend, 
+and a separate **EC2** instance running ML inference where **DeepFilterNet**, **Whisper AI**, and **Sepformer** handle denoising, transcription, and speaker separation respectively, 
+all containerized with **Docker** and backed by **S3** and **RDS**.
 
 **📦 Tech Stack**
 <br/>
@@ -94,17 +94,15 @@ End-to-end production audio processing · dynamic ML inference scaling · clean 
 
 <br/>
 
-<table>
-<tr>
-<td align="center">
-
-<br/>
-
-<a href="https://github.com/Shubhtistic/vortex" target="_blank">
+<a href="https://github.com/Shubhtistic/vortex-telemetry-engine" target="_blank">
 <img src="https://img.shields.io/badge/View%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" height="28"/>
 </a>
 
-<br/><br/>
+<br/>
+
+<table>
+<tr>
+<td align="center">
 
 Engineered an async telemetry engine using **FastAPI** for request handling and **Redis Streams** for real-time ingestion, with **Celery** managing background tasks, **PostgreSQL** + **SQLModel** as the optimized data layer, and the whole stack deployed on **AWS EC2** behind **Nginx** with **Systemd**-managed auto-healing.
 
