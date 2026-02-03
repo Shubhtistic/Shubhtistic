@@ -50,38 +50,36 @@ I architect APIs from the ground up—designing efficient data models, implement
 
 <details open>
 <summary>
-
-### 🎵 Sonclarus &nbsp; • &nbsp; *Cloud Audio Intelligence Platform*
-
+<b> Sonclarus</b> &nbsp; • &nbsp; <i>Cloud Audio Intelligence Platform</i>
 </summary>
 
 <br/>
 
 <table>
 <tr>
-<td align="left">
+<td align="center">
 
 <br/>
-
-<div align="center">
 
 <a href="https://github.com/Shubhtistic/sonclarus" target="_blank">
 <img src="https://img.shields.io/badge/View%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" height="28"/>
 </a>
 
-</div>
-
-<br/>
+<br/><br/>
 
 Built a serverless audio processing system using **AWS Lambda** for orchestration and **EC2 Spot** for cost-optimized ML inference, where **DeepFilterNet**, **Whisper AI**, and **Sepformer** handle denoising, transcription, and speaker separation respectively, all served through a **FastAPI** backend containerized with **Docker** and backed by **S3** and **RDS**.
 
 <br/>
 
-**📦 Tech Stack** &nbsp; `AWS Lambda` `EC2 Spot` `S3` `RDS` `DeepFilterNet` `Whisper AI` `Sepformer` `FastAPI` `Docker`
+**📦 Tech Stack**
+<br/>
+`AWS Lambda` `EC2 Spot` `S3` `RDS` `DeepFilterNet` `Whisper AI` `Sepformer` `FastAPI` `Docker`
 
 <br/>
 
-**📈 Impact** &nbsp; End-to-end production audio processing · dynamic ML inference scaling · clean microservice architecture
+**📈 Impact**
+<br/>
+End-to-end production audio processing · dynamic ML inference scaling · clean microservice architecture
 
 <br/>
 
@@ -97,38 +95,36 @@ Built a serverless audio processing system using **AWS Lambda** for orchestratio
 
 <details open>
 <summary>
-
-### ⚡ Vortex &nbsp; • &nbsp; *High-Throughput Telemetry Engine*
-
+<b> Vortex</b> &nbsp; • &nbsp; <i>High-Throughput Telemetry Engine</i>
 </summary>
 
 <br/>
 
 <table>
 <tr>
-<td align="left">
+<td align="center">
 
 <br/>
-
-<div align="center">
 
 <a href="https://github.com/Shubhtistic/vortex" target="_blank">
 <img src="https://img.shields.io/badge/View%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" height="28"/>
 </a>
 
-</div>
-
-<br/>
+<br/><br/>
 
 Engineered an async telemetry engine using **FastAPI** for request handling and **Redis Streams** for real-time ingestion, with **Celery** managing background tasks, **PostgreSQL** + **SQLModel** as the optimized data layer, and the whole stack deployed on **AWS EC2** behind **Nginx** with **Systemd**-managed auto-healing.
 
 <br/>
 
-**📦 Tech Stack** &nbsp; `FastAPI` `PostgreSQL` `Redis Streams` `Celery` `SQLModel` `AWS EC2` `Nginx` `Systemd`
+**📦 Tech Stack**
+<br/>
+`FastAPI` `PostgreSQL` `Redis Streams` `Celery` `SQLModel` `AWS EC2` `Nginx` `Systemd`
 
 <br/>
 
-**📈 Impact** &nbsp; 10,000+ req/sec at sub-20ms latency · 85% query optimization · auto-healing SSL deployment
+**📈 Impact**
+<br/>
+10,000+ req/sec at sub-20ms latency · 85% query optimization · auto-healing SSL deployment
 
 <br/>
 
