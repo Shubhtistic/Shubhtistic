@@ -1,6 +1,6 @@
 # 🐹 Shubham Pawar
 
-**`I TRY TO DO BACKEND STUFF `**
+**` I ARCHITECT SCALABLE BACKENDS `**
 
 Backend Engineer building scalable systems with Python, FastAPI, Docker, and AWS.
 I architect APIs from the ground up—designing efficient data models, implementing async processing, and deploying containerized services that handle real-world load.
@@ -50,19 +50,24 @@ I architect APIs from the ground up—designing efficient data models, implement
 
 
 
-### 🛠️ Tools & Languages
+### 🚀 Tech Stack
 
 <p align="center">
-  <img alt="Python" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>&nbsp;&nbsp;&nbsp;&nbsp;
-  <img alt="C++" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/>&nbsp;&nbsp;&nbsp;&nbsp;
-  <img alt="FastAPI" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg"/>&nbsp;&nbsp;&nbsp;&nbsp;
-  <img alt="SQL" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>&nbsp;&nbsp;&nbsp;&nbsp;
-  <img alt="PostgreSQL" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>&nbsp;&nbsp;&nbsp;&nbsp;
-  <img alt="Linux" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>&nbsp;&nbsp;&nbsp;&nbsp;
-  <img alt="Bash" width="45px" src="https://api.iconify.design/skill-icons/bash-dark.svg"/>&nbsp;&nbsp;&nbsp;&nbsp;
-  <img alt="Git" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>&nbsp;&nbsp;&nbsp;&nbsp;
-  <img alt="GitHub" width="45px" src="https://api.iconify.design/skill-icons/github-dark.svg"/>&nbsp;&nbsp;&nbsp;&nbsp;
-  <img alt="CMake" width="45px" src="https://api.iconify.design/skill-icons/cmake-dark.svg"/>
+  <img alt="Python" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>&nbsp;&nbsp;&nbsp;
+  <img alt="FastAPI" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg"/>&nbsp;&nbsp;&nbsp;
+  <img alt="Docker" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"/>&nbsp;&nbsp;&nbsp;
+  <img alt="AWS" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"/>&nbsp;&nbsp;&nbsp;
+  <img alt="PostgreSQL" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>&nbsp;&nbsp;&nbsp;
+  <img alt="Redis" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg"/>&nbsp;&nbsp;&nbsp;
+  <img alt="Linux" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>&nbsp;&nbsp;&nbsp;
+  <img alt="Git" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
+</p>
+
+<p align="center">
+  <img alt="C++" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/>&nbsp;&nbsp;&nbsp;
+  <img alt="SQL" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azuresqldatabase/azuresqldatabase-original.svg"/>&nbsp;&nbsp;&nbsp;
+  <img alt="Bash" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg"/>&nbsp;&nbsp;&nbsp;
+  <img alt="GitHub" width="50px" src="https://api.iconify.design/skill-icons/github-dark.svg"/>
 </p>
 
 
@@ -77,6 +82,21 @@ I architect APIs from the ground up—designing efficient data models, implement
 
 <!-- end of tools & languages -->
 <!-- <div style="clear: both; width: 100%;"> -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ### 📊 Stats
 <div align="center" style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap; max-width: 100%;">
