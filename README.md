@@ -127,9 +127,9 @@ Engineered an async telemetry engine using **FastAPI** for request handling and 
 ### 📊 Stats
 
 <div align="center" style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap; max-width: 100%;">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shubhtistic&show_icons=true&theme=noctis_minimus" 
+  <img src="https://github-readme-stats-one-alpha.vercel.app/api?username=Shubhtistic&show_icons=true&theme=noctis_minimus" 
        alt="GitHub stats" style="height:150px; flex: 1 1 220px; max-width:42%;"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shubhtistic&layout=compact&theme=noctis_minimus" 
+  <img src="https://github-readme-stats-one-alpha.vercel.app/api/top-langs/?username=Shubhtistic&layout=compact&theme=noctis_minimus" 
        alt="Top Langs" style="height:150px; flex: 1 1 220px; max-width:42%;"/>
 </div>
 
