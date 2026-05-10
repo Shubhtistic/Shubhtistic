@@ -41,7 +41,6 @@ I architect APIs from the ground up—designing efficient data models, implement
 </p>
 
 ---
-
 ### 💼 Featured Projects
 
 <div align="center">
@@ -50,7 +49,7 @@ I architect APIs from the ground up—designing efficient data models, implement
 
 <details open>
 <summary>
-<b>🎵 Sonclarus</b> &nbsp; • &nbsp; <i>Cloud Audio Intelligence Platform</i>
+<b>🎵 Sonclarus</b> &nbsp; • &nbsp; <i>Cloud-Native Audio Intelligence Platform</i>
 </summary>
 
 <br/>
@@ -65,17 +64,29 @@ I architect APIs from the ground up—designing efficient data models, implement
 <tr>
 <td align="center">
 
-Built an audio processing platform with **EC2** hosting the **FastAPI** backend and frontend, 
-and a separate **EC2** instance running ML inference where **DeepFilterNet**, **Whisper AI**, and **Sepformer** handle denoising, transcription, and speaker separation respectively, 
-all containerized with **Docker** and backed by **S3** and **RDS**.
+Built a four-stage audio pipeline for two-speaker audio using **DeepFilterNet**, **SepFormer**, **Faster-Whisper INT8**, and **Gemini API** for denoising, speaker separation, transcription, and summarization respectively.
+
+Implemented async job processing with **ARQ** for non-blocking ML inference, decoupling API requests from heavy audio processing workloads.
+
+Deployed on **AWS EC2** with **RDS** for PostgreSQL, **ElastiCache** for Redis, and **S3** for audio file storage — fully containerized with **Docker**.
 
 **📦 Tech Stack**
 <br/>
-`EC2` `EC2 Spot` `S3` `RDS` `DeepFilterNet` `Whisper AI` `Sepformer` `FastAPI` `Docker`
+`Python` &nbsp;
+`FastAPI` &nbsp;
+`ARQ` &nbsp;
+`PyTorch` &nbsp;
+`CUDA 12.4` &nbsp;
+`Faster-Whisper` &nbsp;
+`DeepFilterNet` &nbsp;
+`SepFormer` &nbsp;
+`Gemini API` &nbsp;
+`Docker` &nbsp;
+`EC2` `RDS` `ElastiCache` `S3`
 
 **📈 Impact**
 <br/>
-End-to-end production audio processing · dynamic ML inference scaling · clean microservice architecture
+End-to-end production audio pipeline · async ML inference decoupling · clean microservice architecture on AWS
 
 </td>
 </tr>
@@ -89,7 +100,7 @@ End-to-end production audio processing · dynamic ML inference scaling · clean 
 
 <details open>
 <summary>
-<b>⚡ Vortex</b> &nbsp; • &nbsp; <i>High-Throughput Telemetry Engine</i>
+<b>⚡ Vortex API</b> &nbsp; • &nbsp; <i>High-Throughput Telemetry & Analytics Engine</i>
 </summary>
 
 <br/>
@@ -104,15 +115,26 @@ End-to-end production audio processing · dynamic ML inference scaling · clean 
 <tr>
 <td align="center">
 
-Engineered an async telemetry engine using **FastAPI** for request handling and **Redis Streams** for real-time ingestion, with **Celery** managing background tasks, **PostgreSQL** + **SQLModel** as the optimized data layer, and the whole stack deployed on **AWS EC2** behind **Nginx** with **Systemd**-managed auto-healing.
+Built a self-hosted multi-tenant telemetry pipeline where **FastAPI** writes events to **Redis**, and **ARQ** bulk-inserts into **PostgreSQL** every 5 seconds — with public/secret API key pairs per tenant.
+
+Implemented per-tenant rate limiting using atomic **Redis** counters to enforce ingestion quotas without any external dependencies.
+
+Deployed on **AWS EC2** t2.micro; load tested with **Grafana k6** — 84,177 requests in 5 minutes, 280 req/sec sustained, 0% server errors.
 
 **📦 Tech Stack**
 <br/>
-`FastAPI` `PostgreSQL` `Redis Streams` `Celery` `SQLModel` `AWS EC2` `Nginx` `Systemd`
+`Python` &nbsp;
+`FastAPI` &nbsp;
+`ARQ` &nbsp;
+`Redis` &nbsp;
+`PostgreSQL` &nbsp;
+`Alembic` &nbsp;
+`Docker` &nbsp;
+`EC2` `RDS`
 
 **📈 Impact**
 <br/>
-10,000+ req/sec at sub-20ms latency · 85% query optimization · auto-healing SSL deployment
+280 req/sec sustained · 84,177 requests in 5 min · 0% server errors · atomic rate limiting per tenant
 
 </td>
 </tr>
