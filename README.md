@@ -6,7 +6,7 @@ Backend Engineer building scalable systems with Python, FastAPI, Docker, and AWS
 I architect APIs from the ground up—designing efficient data models, implementing async processing, and deploying containerized services that handle real-world load.
 
 <p align="left">
-   <a href="https://www.linkedin.com/in/shubham-pawar-2k04" target="_blank">
+   <a href="https://www.linkedin.com/in/shubhtistic" target="_blank">
       <img alt="LinkedIn" title="Connect on LinkedIn" src="https://img.shields.io/badge/LinkedIn-1A4D8F?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
    <a href="https://www.instagram.com/shubhtistic/" target="_blank">
       <img alt="Instagram" title="Follow on Instagram" src="https://img.shields.io/badge/Instagram-A81968?style=for-the-badge&logo=instagram&logoColor=white"/></a>
