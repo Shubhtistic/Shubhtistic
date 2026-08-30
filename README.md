@@ -158,13 +158,12 @@ Deployed on **AWS EC2** t2.micro; load tested with **Grafana k6** — 84,177 req
 ---
 
 ### 🎵 Soundtrack of the Moment
-
 <div align="center">
   <table>
     <tr>
       <td>
         <a href="https://open.spotify.com/user/31urtnhjhdtd5g5faxzwestvqylm">
-          <img src="https://novatorem.visualbean.vercel.app/api/spotify" />
+          <img src="https://novatorem-whh3.vercel.app/api/spotify?background_type=blur_dark&border_color=333333&show_status=true" />
         </a>
       </td>
       <td>
