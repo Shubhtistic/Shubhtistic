@@ -166,7 +166,7 @@ Deployed on **AWS EC2** t2.micro; load tested with **Grafana k6** — 84,177 req
       <!-- MUSIC - line shifted left to 75% -->
       <td width="75%" valign="middle" align="left">
         <a href="https://www.last.fm/user/Shubhtistic">
-          <img src="https://novatorem-whh3.vercel.app/api/orchestrator?background_type=blur_dark&border_color=ffffff&show_status=true&v=2" height="160" style="height: 160px; width: 100%; object-fit: contain; object-position: left; display: block;" alt="Last.fm" />
+          <img src="https://novatorem-whh3.vercel.app/api/orchestrator?background_type=blur_dark&border_color=fffffff&show_status=false&v=2" height="160" style="height: 160px; width: 100%; object-fit: contain; object-position: left; display: block;" alt="Last.fm" />
         </a>
       </td>
       <!-- CAT - now takes 25% (15% + that 10%) = bigger part -->
