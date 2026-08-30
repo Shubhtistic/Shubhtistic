@@ -171,7 +171,7 @@ Deployed on **AWS EC2** t2.micro; load tested with **Grafana k6** — 84,177 req
       </td>
       <!-- CAT - now takes 25% (15% + that 10%) = bigger part -->
       <td width="25%" valign="middle" align="center" style="padding: 0 0 0 12px;">
-        <img src="https://github.com/Shubhtistic/Shubhtistic/raw/main/output/cat.gif" width="190" height="155" style="width: 100%; max-width: 190px; border-radius: 8px; display: block;" />
+        <img src="https://github.com/Shubhtistic/Shubhtistic/raw/main/output/cat.gif" width="180" height="150" style="width: 100%; max-width: 180px; border-radius: 8px; display: block;" />
       </td>
     </tr>
   </table>
