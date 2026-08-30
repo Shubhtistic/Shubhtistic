@@ -161,17 +161,20 @@ Deployed on **AWS EC2** t2.micro; load tested with **Grafana k6** — 84,177 req
 
 <div align="center" style="border: 2px solid #ffffff; border-radius: 12px; padding: 12px;">
 
-  <table width="100%">
+  <table width="100%" style="border-collapse: collapse;">
     <tr>
-      <td width="80%" align="left">
+      <!-- MUSIC - line shifted left to 75% -->
+      <td width="75%" valign="middle" align="left">
         <a href="https://www.last.fm/user/Shubhtistic">
-          <img src="https://novatorem-whh3.vercel.app/api/orchestrator?background_type=blur_dark&border_color=ffffff&show_status=true&v=2" style="width: 100%; display: block;" alt="Last.fm" />
+          <img src="https://novatorem-whh3.vercel.app/api/orchestrator?background_type=blur_dark&border_color=ffffff&show_status=true&v=2" height="160" style="height: 160px; width: 100%; object-fit: contain; object-position: left; display: block;" alt="Last.fm" />
         </a>
       </td>
-      <td width="20%" align="right" style="padding-left: 12px;">
-        <img src="https://github.com/Shubhtistic/Shubhtistic/raw/main/output/cat.gif" width="140" style="border-radius: 8px;" />
+      <!-- CAT - now takes 25% (15% + that 10%) = bigger part -->
+      <td width="25%" valign="middle" align="center" style="padding: 0 0 0 12px;">
+        <img src="https://github.com/Shubhtistic/Shubhtistic/raw/main/output/cat.gif" width="190" height="155" style="width: 100%; max-width: 190px; border-radius: 8px; display: block;" />
       </td>
     </tr>
   </table>
 
 </div>
+
