@@ -158,17 +158,20 @@ Deployed on **AWS EC2** t2.micro; load tested with **Grafana k6** — 84,177 req
 ---
 
 ### 🎵 Soundtrack of the Moment
-<div align="center">
-  <table>
+
+<div align="center" style="border: 2px solid #ffffff; border-radius: 12px; padding: 12px;">
+
+  <table width="100%">
     <tr>
-      <td width="70%">
+      <td width="80%" align="left">
         <a href="https://www.last.fm/user/Shubhtistic">
-          <img src="https://novatorem-whh3.vercel.app/api/orchestrator?background_type=blur_dark&border_color=ffffff&show_status=true&v=2" alt="Last.fm" />
+          <img src="https://novatorem-whh3.vercel.app/api/orchestrator?background_type=blur_dark&border_color=ffffff&show_status=true&v=2" style="width: 100%; display: block;" alt="Last.fm" />
         </a>
       </td>
-      <td width="30%" align="center">
-        <img src="https://github.com/Shubhtistic/Shubhtistic/raw/main/output/cat.gif" width="150" />
+      <td width="20%" align="right" style="padding-left: 12px;">
+        <img src="https://github.com/Shubhtistic/Shubhtistic/raw/main/output/cat.gif" width="140" style="border-radius: 8px;" />
       </td>
     </tr>
   </table>
+
 </div>
