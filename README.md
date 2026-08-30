@@ -159,14 +159,15 @@ Deployed on **AWS EC2** t2.micro; load tested with **Grafana k6** — 84,177 req
 
 ### 🎵 Soundtrack of the Moment
 <div align="center">
-  <table>
+  <table width="100%">
     <tr>
       <td>
         <a href="https://www.last.fm/user/Shubhtistic">
-          <img src="https://novatorem-whh3.vercel.app/api/orchestrator?background_type=blur_dark&border_color=333333&show_status=true" />
+          <img src="https://novatorem-whh3.vercel.app/api/orchestrator?background_type=blur_dark&border_color=ffffff&show_status=true&v=2" alt="Last.fm" />
         </a>
       </td>
-      <td>
+      <td width="80"></td>
+      <td align="right">
         <img src="https://github.com/Shubhtistic/Shubhtistic/raw/main/output/cat.gif" width="150" />
       </td>
     </tr>
